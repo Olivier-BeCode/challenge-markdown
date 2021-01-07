@@ -1,15 +1,15 @@
-<h1>Olivier</h1>
+²<h1>Olivier</h1>
 
 «*The happiness of your life depends upon the quality of your thoughts.*»
 ― **Marcus Aurelius,** Meditations.
 
 ### Me, in one sentence
 
-| Birthday               | ...  |
+| **Birthday**           | 23/10     |
 | ---------------------- | ---- |
-| **Gender**             | ...  |
-| **Favorite color**     | ...  |
-| **Favorite Food**      | ...  |
+| **Gender**             | **Male** |
+| **Favorite color**     | **Blue** |
+| **Favorite Food**      | **Pizza** |
 | **Pineapple on pizza** | ✅    |
 
 ### Hobbies
