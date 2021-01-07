@@ -7,10 +7,10 @@
 
 | Birthday               | ...  |
 | ---------------------- | ---- |
-| **Gender**             | ...  |
-| **Favorite color**     | ...  |
-| **Favorite Food**      | ...  |
-| **Pineapple on pizza** | ✅    |
+| <center>**Gender** </center>            | <center>...** </center> |
+| <center>**Favorite color** </center>    | <center>...** </center> |
+| <center>**Favorite Food** </center>     | <center>...** </center> |
+| <center>**Pineapple on pizza** </center>| <center>**✅** </center>   |
 
 ### Hobbies
 
