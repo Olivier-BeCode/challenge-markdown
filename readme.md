@@ -35,5 +35,3 @@ Bla bla bla
 Bla bla bla
 
 [previous](https://www.google.com) || Olivier || [next](https://www.google.com)
-
-
