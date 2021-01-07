@@ -1,4 +1,4 @@
-<h1>Olivier</h1>
+²<h1>Olivier</h1>
 
 «*The happiness of your life depends upon the quality of your thoughts.*»
 ― **Marcus Aurelius,** Meditations.
@@ -7,10 +7,10 @@
 
 | Birthday               | ...  |
 | ---------------------- | ---- |
-| <center>**Gender** </center>            | <center>...** </center> |
-| <center>**Favorite color** </center>    | <center>...** </center> |
-| <center>**Favorite Food** </center>     | <center>...** </center> |
-| <center>**Pineapple on pizza** </center>| <center>**✅** </center>   |
+| **Gender**             | ...  |
+| **Favorite color**     | ...  |
+| **Favorite Food**      | ...  |
+| **Pineapple on pizza** | ✅    |
 
 ### Hobbies
 
@@ -34,7 +34,6 @@ Bla bla bla
 
 Bla bla bla
 
-<< [previous](https://www.google.com) || Olivier || [next](https://www.google.com) >>
-
+[previous](https://www.google.com) || Olivier || [next](https://www.google.com)
 
 
