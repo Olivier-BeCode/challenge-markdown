@@ -12,8 +12,8 @@
 | ---------------------- | ---- |
 | **Gender**             | **Male** |
 | **Favorite color**     | **Blue** |
-| **Favorite Food**      | **Pizza** |
-| **Pineapple on pizza** | ✅    |
+| **I ❤️ to eat**      | **Pizza** 🍕|
+| **Pineapple on pizza** | **Yes** ✅  |
 
 ### Hobbies
 
