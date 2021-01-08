@@ -3,31 +3,34 @@
 «*The happiness of your life depends upon the quality of your thoughts.*»
 ― **Marcus Aurelius,** Meditations.
 
+![Photo](.\assets\photo.png)
+
 ### Me, in one sentence
 
 | **Birthday**           | 23/10     |
-| ---------------------- | --------- |
-| **Gender**             | **Male**  |
-| **Favorite color**     | **Blue**  |
+| ---------------------- | ---- |
+| **Gender**             | **Male** |
+| **Favorite color**     | **Blue** |
 | **Favorite Food**      | **Pizza** |
-| **Pineapple on pizza** | ✅         |
+| **Pineapple on pizza** | ✅    |
 
 ### Hobbies
 
 <ul> 
-    <li>Test</li>
-    <li>Test</li>
-    <li>Test</li>
-    <li> Test
+    <li>Running</li>
+    <li>Poker</li>
+    <li>Travel</li>
+    <li> Music
         <ul>
-    		<li>Test</li>
-    		<li>Test</li>
+    		<li>Rock</li>
+    		<li>Classical Piano</li>
     	</ul>
     </li>
 </ul>
 
-
 ### You can always count on me when 
+
+You have a question about Javascript 
 
 Bla bla bla
 
@@ -36,4 +39,7 @@ Bla bla bla
 Bla bla bla
 
 [previous](https://www.google.com) || Olivier || [next](https://www.google.com)
+
+
+
 
