@@ -37,7 +37,7 @@ You have a question about Javascript
 
 One day I almost drop one my shoe in the middle of a 100 meters tall climbing route.
 
-<< [Oblie Abu](https) || Olivier || [Selassi Zakaria](https://deceulaeradrien.github.io/challenge-markdown/) >>
+<< [Oblie Abu](https) || Olivier || [Selassi Zakaria](https://github.com/ZakariaSelassi/challenge-markdown) >>
 
 
 
