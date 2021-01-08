@@ -1,6 +1,7 @@
 <h1>Olivier</h1>
 
-«*The happiness of your life depends upon the quality of your thoughts.*»
+> «*The happiness of your life depends upon the quality of your thoughts.*»
+
 ― **Marcus Aurelius,** Meditations.
 
 ![Photo](assets/photo.png)
