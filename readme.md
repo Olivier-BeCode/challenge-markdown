@@ -12,7 +12,7 @@
 | ---------------------- | ---- |
 | **Gender**             | **Male** |
 | **Favorite color**     | **Blue** |
-| **I ❤️ to eat**      | **Pizza** 🍕|
+| **I love to eat**      | **Pizza** 🍕|
 | **Pineapple on pizza** | **Yes** ✅  |
 
 ### Hobbies
@@ -33,11 +33,9 @@
 
 You have a question about Javascript 
 
-Bla bla bla
-
 #### TL;DR
 
-Bla bla bla
+One day I almost drop one my shoe in the middle of a 100 meters tall climbing route.
 
 << [Oblie Abu](https) || Olivier || [Selassi Zakaria](https://deceulaeradrien.github.io/challenge-markdown/) >>
 
