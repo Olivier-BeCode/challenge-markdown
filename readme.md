@@ -3,7 +3,7 @@
 «*The happiness of your life depends upon the quality of your thoughts.*»
 ― **Marcus Aurelius,** Meditations.
 
-![Photo](.\assets\photo.png)
+![Photo](assets/photo.png)
 
 ### Me, in one sentence
 
